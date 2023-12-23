@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because the omega value was much faster than the random one.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because they were the fastest ones but they were very balanced.
+
+sort3 uses: Selection Sort
+
+How do you know?: Because they weren't as fastest as the sort2 but they were balanced.
